@@ -1,0 +1,1 @@
+module.exports.stockLevelService = require('./stockLevel.service');
